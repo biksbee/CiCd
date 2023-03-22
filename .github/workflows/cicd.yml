@@ -3,8 +3,8 @@ on:
   push: 
     branches:
       -master
-    path-ignore: 
-      - '.github/workflows/*'
+    # path-ignore: 
+    #   - '.github/workflows/*'
 jobs:
   deploy:
     runs-on: ubuntu-latest
