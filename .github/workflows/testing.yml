@@ -1,7 +1,7 @@
 name: Test Reat App
 on: push
 jobs: 
-  runs-on: ubuntu-latest
+  run-on: ubuntu-latest
   steps: 
     - name: Get repository code
       uses: actions/checkout@v3
