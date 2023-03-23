@@ -16,7 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React and CiCd
-          hey hi
         </a>
       </header>
     </div>
